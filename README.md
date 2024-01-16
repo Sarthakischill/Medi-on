@@ -108,3 +108,13 @@ Considering the increasing demand for remote healthcare solutions. Below is an e
 - 
 
 **By incorporating these features and considerations, our Healthcare Appointment Booking and Telemedicine platform can provide a comprehensive and user-friendly experience for both healthcare providers and patients.**
+
+### *Web-App made as a Project for GSC2024 Entry.*
+
+**Contributors: **
+
+1) Sarthak  Shitole
+
+2)Atharva Chirde
+
+3)Aishwarya Deshmukh
