@@ -111,9 +111,9 @@ Considering the increasing demand for remote healthcare solutions. Below is an e
 
 ### *Web-App made as a Project for GSC2024 Entry.*
 
-**Contributors: **
+Contributors: 
 
-1) Sarthak  Shitole
+1)Sarthak  Shitole
 
 2)Atharva Chirde
 
