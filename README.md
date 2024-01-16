@@ -1,4 +1,9 @@
-# Medi-on:
+**#Note:**
+
+This is just a static prototype under development with the functionalities mentioned below being added to the application.
+
+**Live Here**: https://mediongsc.netlify.app/
+# MediOn:
 
 A WebApp that  provides Healthcare and Telemedicine services, accessible on mobile and online for everyone.
 It provides you the best choices for you.
@@ -113,8 +118,6 @@ Considering the increasing demand for remote healthcare solutions. Below is an e
 
 Contributors: 
 
-1)Sarthak  Shitole
-
+1)Sarthak  Shitole (Team MediOnLead)
 2)Atharva Chirde
-
 3)Aishwarya Deshmukh
